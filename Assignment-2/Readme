@@ -1,1 +1,22 @@
-a
+## Prediction-with-Machine-Learning-for-Economists-Course
+Here you can find the description for Prediction-with-Machine-Learning-for-Economists-Course ## Assignments 2
+
+Assignment #2
+Description
+
+The project aims to help a company set an efficient price for their new apartments that just entered the market. The mentioned company operates small and mid-size apartments hosting 2-6 guests. 
+
+I used Airbnb data for Paris with a scraping method (Inside Airbnb. "City Name Dataset." Inside Airbnb, http://insideairbnb.com/ Paris).  I chose the data for December 2022 for Task 1 and for September 2023 for Task 2. 
+
+Models: OLS, FEOLS, Random Forest, Gradient Boosting
+
+Files:
+1. Python code ('Prediction with Machine Learning_ Assignment 2.ipynb')
+2. Summary Report ('Prediction with Machine Learning for Economists — Assignment 2 - Summary - Aizhan Borubaeva')
+3. Technical Report ('Prediction with Machine Learning for Economists — Assignment 2 - Technical report - Aizhan Borubaeva')
+
+Data Source
+Inside Airbnb. "City Name Dataset." Inside Airbnb, http://insideairbnb.com/ Paris
+
+Technologies Used
+Jupiter Notebook, Python
